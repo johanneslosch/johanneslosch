@@ -1,0 +1,22 @@
+[alias]
+    c = commit -S -m
+    co = checkout
+    p = push
+    s = status
+	pu = push -u origin
+	aa = add .
+
+[user]
+	name = Johannes Losch
+	email = hi@jlosch.de
+	username = johanneslosch
+	signingkey = 0E3FB12838D72A0544DC232579E75D32DB5D886E
+[gpg]
+	program = C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[commit]
+	gpgsign = true
