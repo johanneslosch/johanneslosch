@@ -4,7 +4,9 @@ I'm Johannes Losch, a mostly backend dev in [Java, check it out](https://github.
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 [![johanneslosch's github trophy](https://github-profile-trophy.vercel.app/?username=johanneslosch&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![johanneslosch's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johanneslosch&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
