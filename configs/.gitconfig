@@ -3,8 +3,8 @@
     co = checkout
     p = push
     s = status
-	pu = push -u origin
-	aa = add .
+    pu = push -u origin
+    aa = add .
 
 [user]
 	name = Johannes Losch
