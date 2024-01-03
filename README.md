@@ -1,12 +1,10 @@
 # 💫 About Me:
 
-🔭 I’m currently working at AKENI in Heidelberg, Germany as Full-Stack Developer. In my spare time im working on various projects including frameworks, websites, full-stack apps and other.
+🔭 I’m currently working at holos-supply in Weiterstadt, Germany as IT-Consultant - Softwaredeveloper. In my spare time im working on various projects including frameworks, websites, full-stack apps and other.
 
 👯 I’m looking to collaborate on some of my projects.
 
 💬 Ask me about anything via my socials
-
-⚡ Fun fact I'm always looking for projects to turn them into a side business.
 
 ## 🌐 Socials:
 
