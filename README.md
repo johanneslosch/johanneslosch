@@ -21,3 +21,6 @@ Various different functions which help when working with JSONs. This project is 
 
 <p><a href="https://github.com/octonizer/"><img src="https://avatars.githubusercontent.com/u/197490623?s=400&u=e97c44bcacc04b87c4c7a32786a8e74ff024aa11&v=4" height=48 align=left></a><b>Octonizer</b><br>
 Mobile app which is a university project with other people. More information are following.</p>
+
+<p><a href="https://github.com/johanneslosch/HSMz-LaTeX-Template"><img src="logo/tex-logo.png" height=48 align=left></a><b>LaTeX template</b><br>
+German template for Hochschule Mainz (University of Applied Sciences) for TeX. Following all requirements as of beginning of 2025. Supporting codespaces, devcontainer and local writing (setup required).</p>
