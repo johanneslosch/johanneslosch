@@ -24,6 +24,9 @@ Mobile app which is a university project with other people. More information are
 <p><a href="https://github.com/johanneslosch/HSMz-LaTeX-Template"><img src="logo/tex-logo.png" height=48 align=left></a><b>LaTeX template</b><br>
 German template for Hochschule Mainz (University of Applied Sciences) for TeX. Following all requirements as of beginning of 2025. Supporting codespaces, devcontainer and local writing (setup required).</p>
 
+<p><a href="https://github.com/johanneslosch/afvikle"><img src="logo/afvikle.png" height=48 align=left></a><b>afvikle</b><br>
+CLI to speed up the process of running multiple scripts without creating another script. Run from anywhere.</p>
+
 <!--
 <p><a href="https://github.com/johanneslosch/<project>"><img src="logo/logo.png" height=48 align=left></a><b>name</b><br>
 description</p>
