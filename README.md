@@ -27,6 +27,9 @@ German template for Hochschule Mainz (University of Applied Sciences) for TeX. F
 <p><a href="https://github.com/johanneslosch/afvikle"><img src="logo/afvikle.png" height=48 align=left></a><b>afvikle</b><br>
 CLI to speed up the process of running multiple scripts without creating another script. Run from anywhere.</p>
 
+<p><a href="[https://github.com/johanneslosch/<project>](https://github.com/johanneslosch/jira-ticket-creator)"><img src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX=w240-h480-rw" height=48 align=left></a><b>ira-ticket-creator</b><br>
+Helper script to create a bunch of similar JIRA tickets</p>
+
 <!--
 <p><a href="https://github.com/johanneslosch/<project>"><img src="logo/logo.png" height=48 align=left></a><b>name</b><br>
 description</p>
